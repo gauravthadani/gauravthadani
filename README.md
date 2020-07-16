@@ -1,17 +1,23 @@
 ### Hi there 👋
 
-whoami -> 👨
+whoami -> 👨💻
 
 A software generalist with over eleven years of consulting experience. 
 Recognized for being versatile, picking up new tools and technologies, driving value for clients and achieving outcomes.
 
 Passionate about test driven development and continuous delivery. Have worked in various domains including securities trading systems, retail pricing, automotive and payments.
 
-🌱 I’m currently learning -> pairs trade and any tech required for work
+🌱 I’m currently learning -> pairs trade and any tech required for work (elastic and kafka these days)
+
 
 🔭 I’m currently working on -> a BNPL product as a consultant in capacity of a senior software engineer.
 
-⚡ Fun fact -> I like to cook 👨‍🍳
+
+⚡ Fun fact -> I like to cook 👨‍🍳🥘🍛, 🍹🥃 and keep fit 🏋️‍♂️🏃‍♂️
+
+
+📫 How to reach me -> https://www.linkedin.com/in/gaurav-thadani/
+
 
 
 <!--
